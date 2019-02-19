@@ -1,0 +1,20 @@
+.container {
+  padding: 20px 0;
+  margin: 0 auto;
+
+  .container-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 20px auto;
+    font-size: 22px;
+    color: white;
+    background-color: dodgerblue;
+    border-radius: 30px;
+  }
+
+  .container-body {
+    background-color: white;
+    border-radius: 20px;
+  }
+}
